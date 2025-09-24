@@ -31,7 +31,7 @@
 | Часть 2 | ✅ Чек-лист «Способ оплаты» и «Добавление карты» | [Google Sheets](https://docs.google.com/spreadsheets/d/1K6IYbjdXGNdJzNf0Oa134GgsqvlJkQs7IE4Htcya-U8/edit?gid=1540435533) |
 | Часть 3 | ✅ Тест-кейсы на кнопку «Забронировать» | [Google Sheets](https://docs.google.com/spreadsheets/d/1K6IYbjdXGNdJzNf0Oa134GgsqvlJkQs7IE4Htcya-U8/edit?gid=1567345705) |
 | Все баги | 🐞 Баг-репорты (32 дефекта) | [Google Sheets](https://docs.google.com/spreadsheets/d/1K6IYbjdXGNdJzNf0Oa134GgsqvlJkQs7IE4Htcya-U8/edit?gid=977751969) |
-| Итоговый отчёт | 📑 Отчет по тестированию | [GitHub: Test Report](https://github.com/DavidGarguliya/Project-3_Yandex_Routes_-ar_sharing_manual/blob/e06d5d8d0b110fac27a6ae44f8f65551dc6f49ef/Test%20report.md) |
+| Итоговый отчёт | 📑 Отчет по тестированию | [GitHub: Test Report](https://github.com/DavidGarguliya/Project03_Yandex_Routes_Carsharing_manual/blob/baa1e604d265b5d9f234254d418e357e0a452397/Test%20report.md) |
 
 ---
 
